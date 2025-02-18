@@ -1,6 +1,6 @@
 # Netflix Clone
 
-This project is a Netflix clone built using HTML and CSS.  I followed a YouTube tutorial and leveraged AI tools to assist in the development process.  This was a learning experience to understand the structure and styling of the Netflix interface.
+This project is a Netflix clone built using HTML and CSS.  I followed a YouTube tutorial and leveraged AI tools to assist in the development process.  This was a learning experience to understand the structure and styling of the Netflix interface. Not perfect but it was fun.
 
 ## Technologies Used
 
@@ -32,7 +32,6 @@ This project is a Netflix clone built using HTML and CSS.  I followed a YouTube 
 
 *   Implement JavaScript for interactive elements.
 *   Add backend functionality for user authentication and data fetching.
-*   Improve responsiveness for different screen sizes.
 
 ## Acknowledgements 
 
